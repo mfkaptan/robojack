@@ -1,0 +1,26 @@
+{
+  "name": "robojack",
+  "version": "1.0.0",
+  "description": "Bot that plays Lumberjack game",
+  "main": "robo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfkaptan/robojack.git"
+  },
+  "keywords": [
+    "bot",
+    "lumberjack"
+  ],
+  "author": "mfkaptan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mfkaptan/robojack/issues"
+  },
+  "homepage": "https://github.com/mfkaptan/robojack#readme",
+  "dependencies": {
+    "robotjs": "^0.4.5"
+  }
+}
